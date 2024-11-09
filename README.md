@@ -1,3 +1,3 @@
 # demo
-First Git repository
+First Git repository.
 Author-Talha
